@@ -557,10 +557,10 @@ margin-bottom: 3rem;
     
     .protfolio-container{
         grid-template-columns: 1fr;
-        gap: 1rem;
+        gap: 1.5rem;
     }
     .protfolio-box img {
-        width: 90%; 
+        width: 100%; 
     }
 
     .home-img img{
